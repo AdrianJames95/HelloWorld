@@ -1,8 +1,8 @@
 using System.Console
 
-Public Static Void Main()
+public class Program
 {
-  Class Program
+   public static void main()
     {
       WriteLine("Hello World");
     }
